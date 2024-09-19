@@ -1,7 +1,7 @@
 [
   {
-    "objectID": "hw1.html",
-    "href": "hw1.html",
+    "objectID": "hw1/index.html",
+    "href": "hw1/index.html",
     "title": "Assignment 1: Hello World",
     "section": "",
     "text": "In this introductory assignment, I just want you to make a simple plot. Here is an example:\n\nCodex &lt;- rnorm(10000, mean = 100, sd = 15)\nhist(x)\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top",

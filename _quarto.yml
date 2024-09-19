@@ -1,6 +1,7 @@
 project:
   type: website
   execute-dir: project
+  output-dir: docs
   
 execute: 
   freeze: true
@@ -20,7 +21,7 @@ website:
     collapse-level: 1
     contents: 
       - index.qmd
-      - hw1.qmd
+      - hw1/index.qmd
 
 format:
   html:
