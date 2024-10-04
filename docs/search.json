@@ -4,7 +4,7 @@
     "href": "hw1/index.html",
     "title": "Assignment 1: Hello World",
     "section": "",
-    "text": "In this introductory assignment, I just want you to make a simple plot. Here is an example:\n\nCodex &lt;- rnorm(10000, mean = 100, sd = 15)\nhist(x)\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top",
+    "text": "In this introductory assignment, I just want you to make a simple plot. Here is an example:\n\nCodex &lt;- rnorm(10000, mean = 100, sd = 15)\nhist(x)\n\n\n\n\n\n\n\n\nCodesource(\"my_functions.R\")\nhello(\"Ven\")\n\n[1] \"Hello Ven\"\n\n\n\n\n\n\n\n Back to top",
     "crumbs": [
       "About",
       "Assignment 1: Hello World"
